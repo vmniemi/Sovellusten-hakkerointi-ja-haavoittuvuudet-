@@ -4,20 +4,40 @@ Selvitä seuraavien kappaleiden määritteet ja selitä omin sanoin mitä ne tar
 3.2
 attack:
 
+Teko tai teon yritys, jossa hyökkääjä pyrkii päästä käsiksi, varastaa tai paljastaa hänellä kuulumatonta tietoa.
+
 3.31
-access control
+information security incident:
+
+Tapahtuma, jossa havaitaan vikoja järjestelmässä ja joilla on mahdollisuus vaarantaa datan turvallisuutta.
+
+
+
+
 
 3.56
-requirement
+requirement:
+
+Etukäteen määritelty odotus jollekkin asialle.
+
 
 3.58
-review
+review:
+
+Keino arvioida asian vahvuuksia ja heikkouksia
+
 
 3.77
-vulnerability
+vulnerability:
+
+Järjestelmän heikko kohta, jota voi hyväksikäyttää.
+
+
   
 b) Tutustu standardiin ISO 27034-1 - 5. Selvitä mistä standardi kokonaisuudesta on kyse.
-Tarjoaa kehyksen
+
+Tarjoaa kehyksen vahvistamaan sovelluksen turvallisuutta. Siinä myös selitetään, miten muut standardit nivoutuvat sen kanssa yhteen, tarvittavat käsitteet ja akronyymit sekä mitä kaikkien johto portaan tulisi ottaa huomioon, jos he haluavat ottaa tämä kyseisen standardin käyttöön.
+
   
 c) Kuuntele Podcast: Laatulöpinät 30: Tietoturvallisuus ohjelmistokehityksessä
  https://www.arter.fi/podcast/laatulopinat-podcast-tietoturvallisuus-ohjelmistokehityksessa-tarkastele-kokonaisuutta-ja-hyodynna-viitekehykset/
